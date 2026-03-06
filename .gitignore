@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LinkedIn session files
+linkedin_session.json
+*.png
+
+# Output files
+contacto_*.json
+contacto_*.png
+
+# Logs
+*.log
