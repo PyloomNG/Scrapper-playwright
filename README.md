@@ -2,6 +2,13 @@
 
 Script de Python para extraer información de contacto de perfiles de LinkedIn mediante scraping con Playwright.
 
+## Clonar el repositorio
+
+```bash
+git clone https://github.com/PyloomNG/Scrapper-playwright.git
+cd Scrapper-playwright
+```
+
 ## Requisitos
 
 - Python 3.8+
